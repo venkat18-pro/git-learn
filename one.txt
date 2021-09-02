@@ -1,1 +1,2 @@
-Some file in git
+Some file in gi
+Some another text file change
